@@ -19,7 +19,7 @@ $novoEmail->sendMail(
     "Assunto de Teste",
     "<p>Esse é um e-mail de <b>teste</b></p>",
     "email@gmail.com",
-    "Eronildo",
+    "Nome",
     "email@gmail.com",
     "name"
 );
