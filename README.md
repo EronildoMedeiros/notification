@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Notification Library via email using phpMailer
 
 This library has the function of sending e-mail using the phpmailer library. Doing this in an uncomplicated way is essential for any system.
@@ -43,7 +42,3 @@ MIT
 [Robson V. Leite]: <mailto: robson@upinside.com.br>
 [UpInside Treinamentos]: <https://www.upinside.com.br>
 [phpMailer]: <https://github.com/PHPMailer/PHPMailer>
-=======
-# notification
-This is a library that uses composer as the basis for generating email notifications
->>>>>>> 9a608a92badce034a3923d0c2301e24ada31f098
