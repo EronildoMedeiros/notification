@@ -1,5 +1,5 @@
 {
-    "name": "eron_pc/notification",
+    "name": "eronildomedeiros/notification",
     "description": "This is a library that uses composer as the basis for generating email notifications",
     "type": "library",
     "license": "mit",
